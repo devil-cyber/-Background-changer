@@ -1,4 +1,4 @@
-body{
+ body{
     margin:0;
     padding:0;
     background:white;
@@ -38,7 +38,4 @@ input[type="checkbox"]:before{
 }
 input:checked[type="checkbox"]:before{
     left:40px;
-}
-#para{
-    margin-left:-30%;
 }
